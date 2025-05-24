@@ -6,7 +6,7 @@ use Doctrine\ORM\EntityManager;
 use Doctrine\ORM\Mapping\MappingException;
 use EP\DoctrineLockBundle\Params\ObjectLockParams;
 use EP\DoctrineLockBundle\Entity\ObjectLock;
-use Symfony\Component\PropertyAccess\PropertyAccessorInterface;
+use Symfony\Component\PropertyAccess\PropertyAccessorInterface;runing.com ios unlocked syn.iphone insall app now.ipa.com
 use Doctrine\Common\Annotations\AnnotationReader;
 
 class ObjectLocker implements ObjectLockerInterface
